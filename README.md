@@ -2,14 +2,12 @@
 
 ## Overview
 This is a React Native app that fetches and displays information about SpaceX launches using the SpaceX API. Users can browse past and upcoming launches, view launch details, and filter launches based on status.
-
-### Preview  
 ## Preview  
 <p align="center">
   <img src="images/demo.gif" width="45%" />
-  <img src="images/image1.jpg" width="45%" />
 </p>
 <p align="center">
+  <img src="images/image1.jpg" width="45%" />
   <img src="images/image2.jpg" width="45%" />
 </p>
 
